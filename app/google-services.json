@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231964887826",
+    "project_id": "pc-api-7278462664162781080-901",
+    "storage_bucket": "pc-api-7278462664162781080-901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231964887826:android:b35fd9f190034a1c1101cb",
+        "android_client_info": {
+          "package_name": "com.matheusmnds.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231964887826-l3fcl4u9pj6ehfgklv3rgtfq80ld7e7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcrmST_YkYuNognAVFxUWqsVyqAifDt2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231964887826-l3fcl4u9pj6ehfgklv3rgtfq80ld7e7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
