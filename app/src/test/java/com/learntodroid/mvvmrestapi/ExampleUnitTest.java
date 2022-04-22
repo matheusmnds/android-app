@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi;
+package com.matheusmnds.androidapp;
 
 import org.junit.Test;
 

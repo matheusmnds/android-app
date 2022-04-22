@@ -1,12 +1,12 @@
-package com.learntodroid.mvvmrestapi.repositories;
+package com.matheusmnds.androidapp.repositories;
 
 import android.util.Log;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
-import com.learntodroid.mvvmrestapi.apis.BookSearchService;
-import com.learntodroid.mvvmrestapi.models.VolumesResponse;
+import com.matheusmnds.androidapp.apis.BookSearchService;
+import com.matheusmnds.androidapp.models.VolumesResponse;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

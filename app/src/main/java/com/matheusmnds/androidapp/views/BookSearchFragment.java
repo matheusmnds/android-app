@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.views;
+package com.matheusmnds.androidapp.views;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -15,10 +15,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.textfield.TextInputEditText;
-import com.learntodroid.mvvmrestapi.R;
-import com.learntodroid.mvvmrestapi.adapters.BookSearchResultsAdapter;
-import com.learntodroid.mvvmrestapi.models.VolumesResponse;
-import com.learntodroid.mvvmrestapi.viewmodels.BookSearchViewModel;
+import com.matheusmnds.androidapp.R;
+import com.matheusmnds.androidapp.adapters.BookSearchResultsAdapter;
+import com.matheusmnds.androidapp.models.VolumesResponse;
+import com.matheusmnds.androidapp.viewmodels.BookSearchViewModel;
 
 public class BookSearchFragment extends Fragment {
     private BookSearchViewModel viewModel;

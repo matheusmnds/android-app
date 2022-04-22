@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.util;
+package com.matheusmnds.androidapp.util;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.models;
+package com.matheusmnds.androidapp.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

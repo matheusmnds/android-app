@@ -1,6 +1,6 @@
-package com.learntodroid.mvvmrestapi.apis;
+package com.matheusmnds.androidapp.apis;
 
-import com.learntodroid.mvvmrestapi.models.VolumesResponse;
+import com.matheusmnds.androidapp.models.VolumesResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

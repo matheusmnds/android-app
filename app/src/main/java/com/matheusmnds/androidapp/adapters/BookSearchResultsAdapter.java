@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.adapters;
+package com.matheusmnds.androidapp.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,9 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.learntodroid.mvvmrestapi.R;
-import com.learntodroid.mvvmrestapi.models.Volume;
-import com.learntodroid.mvvmrestapi.util.Util;
+import com.matheusmnds.androidapp.R;
+import com.matheusmnds.androidapp.models.Volume;
+import com.matheusmnds.androidapp.util.Util;
 
 import java.util.ArrayList;
 import java.util.List;

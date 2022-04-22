@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.views;
+package com.matheusmnds.androidapp.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
@@ -8,7 +8,7 @@ import androidx.navigation.ui.NavigationUI;
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.learntodroid.mvvmrestapi.R;
+import com.matheusmnds.androidapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

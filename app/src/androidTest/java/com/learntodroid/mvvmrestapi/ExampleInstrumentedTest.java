@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi;
+package com.matheusmnds.androidapp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.learntodroid.mvvmrestapi", appContext.getPackageName());
+        assertEquals("com.matheusmnds.androidapp", appContext.getPackageName());
     }
 }

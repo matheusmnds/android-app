@@ -1,4 +1,4 @@
-package com.learntodroid.mvvmrestapi.viewmodels;
+package com.matheusmnds.androidapp.viewmodels;
 
 import android.app.Application;
 
@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.learntodroid.mvvmrestapi.models.VolumesResponse;
-import com.learntodroid.mvvmrestapi.repositories.BookRepository;
+import com.matheusmnds.androidapp.models.VolumesResponse;
+import com.matheusmnds.androidapp.repositories.BookRepository;
 
 public class BookSearchViewModel extends AndroidViewModel {
     private BookRepository bookRepository;
